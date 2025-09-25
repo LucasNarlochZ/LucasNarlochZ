@@ -1,4 +1,4 @@
-I'm Lucas Narloch
+# I'm Lucas Narloch
 
 - Computer Science student at **PUCPR**  
 - Backend development intern at **SmartLy Fabricação de Dispositivos Inteligentes Ltda.**  
