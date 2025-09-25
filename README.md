@@ -28,7 +28,7 @@
 
 ## Portfolio
 
-🔗 [lucasnarz.github.io/Portfolio](https://lucasnarz.github.io/Portfolio)
+[lucasnarz.github.io/Portfolio](https://lucasnarz.github.io/Portfolio)
 
 ---
 
