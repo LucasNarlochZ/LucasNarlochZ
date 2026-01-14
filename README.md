@@ -17,15 +17,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasNarZ&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNarZ&layout=compact&theme=transparent&hide_border=true" width="48%" />
-</div>
-
----
-
 ## Portfolio
 
 [lucasnarz.github.io/Portfolio](https://lucasnarz.github.io/Portfolio)
