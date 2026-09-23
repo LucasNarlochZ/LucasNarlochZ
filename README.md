@@ -25,7 +25,7 @@
 
 ## Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-narloch-95436b284)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasnarloch/)  
 Email: lucasnarloch123@gmail.com
 
 ---
